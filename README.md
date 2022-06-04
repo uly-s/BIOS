@@ -24,15 +24,10 @@ In general I plan for this to be loosely structured and informal compared to som
 - weekly goals tied to assignments and tasks, made to teach aformentioned principles as well as important programming and computer science concepts. We can call these modules.
 - variety of resources and materials to provide raw practice in tune with each module
 
-### Technologies to be used and taught
+### Technologies to be used and taught (justification and explanation within)
 
-1. For control flow and basic concepts taught well with console apps I want to use javascript run locally with node.js, evantually moving on to typescript. 
-2. Teach enough vanilla html, css, and use of external libraries to be able to build a landing page for evntual hosting on github pages or personal website hosted elsewhere.
-3. This is going to be controversial but I'd then want to transition to working with C, getting them roughly as comfortable working with it as javascript.
-
-The goal of 1-3 is to get the class to the level they'd be very well equipped and prepared for either a vocationally focused bootcamp teaching web development with a react stack or the basic programming classes found in lower division CS coursework covering generally control flow -> OOP -> Data Structures.
-
-- The rest of the course spent teaching/demystifying important software concepts such as web requests, servers, and databases. Javascript and Node.js to teach high level application and usage, and then minimal examples of the same things in C to give them an idea of what's going on under the hood. 
-
-
-
+1. Javascript and Node.js for basics well taught with console apps. 
+2. Vanilla HTML and CSS to the extent they can make a personal site or landing page without huge amounts of dependencies or templating languages
+3. (Controversial) C run a unix system to give an idea of what higher level languages and constructs are doing under the hood (and why we use them instead of C).
+4. Introduce typescript and teach to the level they can appreciate it over JS/C
+5. Use tools of 1-3 to demystify and teach important software and computing concepts such as servers, databases, web protocols, processes etc. The goal here is 
