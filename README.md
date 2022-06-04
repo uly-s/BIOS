@@ -26,8 +26,13 @@ In general I plan for this to be loosely structured and informal compared to som
 
 ### Technologies to be used and taught
 
-- For control flow and basic concepts taught well with console apps I want to use javascript run with node.js
-- Teach enough vanilla html, css, and use of external libraries to be able to build a landing page for evntual hosting on github pages
+1. For control flow and basic concepts taught well with console apps I want to use javascript run locally with node.js, evantually moving on to typescript. 
+2. Teach enough vanilla html, css, and use of external libraries to be able to build a landing page for evntual hosting on github pages or personal website hosted elsewhere.
+3. This is going to be controversial but I'd then want to transition to working with C, getting them roughly as comfortable working with it as javascript.
+
+The goal of 1-3 is to get the class to the level they'd be very well equipped and prepared for either a vocationally focused bootcamp teaching web development with a react stack or the basic programming classes found in lower division CS coursework covering generally control flow -> OOP -> Data Structures.
+
+- The rest of the course spent teaching/demystifying important software concepts such as web requests, servers, and databases. Javascript and Node.js to teach high level application and usage, and then minimal examples of the same things in C to give them an idea of what's going on under the hood. 
 
 
 
